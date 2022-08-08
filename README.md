@@ -1,6 +1,6 @@
 # math-magicians
 
-> This is the first react application project. We setup the project to create the single page application(SPA) that is named math-magicians
+> This is the first react application project. I setup the project to create the single page application(SPA) that is named math-magicians
 
 
 ## Built With
