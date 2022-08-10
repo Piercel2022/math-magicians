@@ -36,10 +36,6 @@ Finally
 ```
 npm start
 ```
-
-
-
-
 ## Author
 
 - GitHub: (https://github.com/Piercel2022)
