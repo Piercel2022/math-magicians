@@ -1,6 +1,6 @@
 # math-magicians
 
-> This is the first react application project. I setup the project to create the single page application(SPA) that is named math-magicians
+> In this part of the project, I develop a React component that will hold the core functionality: a calculator.
 
 
 ## Built With
