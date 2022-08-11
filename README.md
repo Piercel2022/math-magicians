@@ -1,6 +1,6 @@
 # math-magicians
 
-> In this part of the project, I develop a React component that will hold the core functionality: a calculator.
+> In this part of the project, I refactor the component calculator with hook: useState.
 
 
 ## Built With
