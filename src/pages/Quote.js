@@ -4,8 +4,7 @@ import React from 'react';
 const Quote = () => (
   <div className="container">
     <h3>
-      Mathematics is the most beautiful and most powerful creation of the human spirit.
-      — Stefan Banach, Polish mathematician.
+      Mathematics is a language. — Josiah Willard Gibbs, American scientist
     </h3>
     <h3>
       As far as the laws of mathematics refer to reality, they are not certain,

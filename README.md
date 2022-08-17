@@ -1,6 +1,6 @@
 # math-magicians
 
-> In this part of the project, I develop a React component that will hold the core functionality: a calculator.
+> This is the full website of the Math Magicians Project. The website consist of 3 pages: Home, Calculator, and Quote.
 
 
 ## Built With
@@ -8,6 +8,7 @@
 
 - A Linter for REACT & REDUX
 - The Javascript library framework named REACT
+- JSX
 
 ## Getting Started
 
