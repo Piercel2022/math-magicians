@@ -1,6 +1,6 @@
 # math-magicians
 
-> In this part of the project, I refactor the component calculator with hook: useState.
+> This is the full website of the Math Magicians Project. The website consist of 3 pages: Home, Calculator, and Quote.
 
 
 ## Built With
@@ -8,6 +8,7 @@
 
 - A Linter for REACT & REDUX
 - The Javascript library framework named REACT
+- JSX
 
 ## Getting Started
 
