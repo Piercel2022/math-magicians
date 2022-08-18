@@ -23,6 +23,8 @@ cd math-magicians
 ```
 Finally A Linter for REACT & REDUX
 
+##Live Demo
+(https://my234.herokuapp.com/)
 
 ### Install : 
 To create a React Application, follow these steps:
