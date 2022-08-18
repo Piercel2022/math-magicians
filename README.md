@@ -1,6 +1,6 @@
 # math-magicians
 
-> This is the full website of the Math Magicians Project. The website consist of 3 pages: Home, Calculator, and Quote.
+> In this project, I write unit tests for the Math Magicians app, using the Jest and React Testing Library libraries.
 
 
 ## Built With
@@ -9,6 +9,7 @@
 - A Linter for REACT & REDUX
 - The Javascript library framework named REACT
 - JSX
+- Jest
 
 ## Getting Started
 
