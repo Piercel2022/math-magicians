@@ -25,6 +25,7 @@ Finally A Linter for REACT & REDUX
 
 ##Live Demo
  - https://my234.herokuapp.com/
+ - https://quotereactappcalculator.netlify.app/
 
 ### Install : 
 To create a React Application, follow these steps:
