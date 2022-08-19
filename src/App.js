@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import Calculator from './components/calculator';

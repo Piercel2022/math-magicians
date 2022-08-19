@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 /* eslint-disable max-len */
 import React from 'react';
 import { Route } from 'react-router-dom';
