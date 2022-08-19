@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 import operate from './operate';
 
 function isNumber(item) {
