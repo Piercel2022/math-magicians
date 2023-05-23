@@ -1,6 +1,6 @@
 # math-magicians
 
-> In this project, I write unit tests for the Math Magicians app, using the Jest and React Testing Library libraries.
+
 
 
 ## Built With
@@ -25,7 +25,6 @@ cd math-magicians
 Finally A Linter for REACT & REDUX
 
 ##Live Demo
- - https://my234.herokuapp.com/
  - https://quotereactappcalculator.netlify.app/
 
 ### Install : 
