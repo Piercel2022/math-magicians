@@ -1,5 +1,7 @@
 # math-magicians
+Math magicians is a react application. There are many components that build up  this react application. The project navigate in the menu between the home menu,  the quote in the mathematics and the main area which is the calculator.
 
+![math](https://github.com/Piercel2022/math-magicians/assets/98626003/fcfa5628-70b0-4c4a-8b0b-ce96b4ad3994)
 
 
 
