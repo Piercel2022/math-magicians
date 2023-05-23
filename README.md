@@ -26,7 +26,7 @@ cd math-magicians
 ```
 Finally A Linter for REACT & REDUX
 
-##Live Demo
+## Live Demo
  - https://quotereactappcalculator.netlify.app/
 
 ### Install : 
